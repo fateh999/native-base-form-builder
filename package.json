@@ -1,0 +1,42 @@
+{
+  "name": "native-base-form-builder",
+  "version": "0.0.1",
+  "description": "Form builder component using Nativebase and React Hook Form",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fateh999/native-base-form-builder.git"
+  },
+  "keywords": [
+    "FormBuilder",
+    "Forms",
+    "React",
+    "Native",
+    "Nativebase"
+  ],
+  "author": "Fateh Farooqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fateh999/native-base-form-builder/issues"
+  },
+  "homepage": "https://github.com/fateh999/native-base-form-builder#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "native-base": "*",
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "typescript": "*",
+    "react-hook-form": "*"
+  }
+}
