@@ -1,6 +1,6 @@
 {
   "name": "native-base-form-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Form builder component using Nativebase and React Hook Form",
   "files": [
     "dist"
